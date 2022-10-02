@@ -14,7 +14,7 @@ def random_predict(number:int=np.random.randint(1, 101)) -> int:
     Returns:
         int: number of tries 
     """
-    print(number)
+    print(f"Your number:{number}")
     count = 0
     lst_num = list(range(1, 101))
 
@@ -33,4 +33,4 @@ def random_predict(number:int=np.random.randint(1, 101)) -> int:
 
     return count
 
-print(random_predict())
+print(f"Amount of tries: {random_predict()}")

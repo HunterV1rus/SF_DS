@@ -1,3 +1,4 @@
+#import numpy as np
 import numpy as np
 
 def random_predict(number:int=1) -> int:
@@ -10,6 +11,8 @@ def random_predict(number:int=1) -> int:
         if number == predict_number:
             break
     return(count)
+
+#print(f'amount of tries:{random_predict()}')
 
 def score_game(random_predict) -> int:
     """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм

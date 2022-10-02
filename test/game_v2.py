@@ -1,4 +1,3 @@
-#import numpy as np
 import numpy as np
 
 def random_predict(number:int=1) -> int:

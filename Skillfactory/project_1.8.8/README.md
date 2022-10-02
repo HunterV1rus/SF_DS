@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/HunterV1rus/SF_DS/tree/main/Skillfactory/project_1.8.8)
 
 
 ### Какой кейс решаем?    
@@ -31,19 +31,19 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/HunterV1rus/SF_DS/tree/main/Skillfactory/project_1.8.8)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/HunterV1rus/SF_DS/tree/main/Skillfactory/project_1.8.8)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/HunterV1rus/SF_DS/tree/main/Skillfactory/project_1.8.8)
 
 
 ### Выводы:  

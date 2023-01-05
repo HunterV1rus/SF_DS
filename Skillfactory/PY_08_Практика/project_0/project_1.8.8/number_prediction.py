@@ -33,4 +33,4 @@ def random_predict(number:int=np.random.randint(1, 101)) -> int:
 
     return count
 
-print(f"Amount of tries: {random_predict()}")
+print(f"Amount of tries: {random_predict()}") 
